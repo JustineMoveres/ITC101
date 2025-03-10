@@ -1,0 +1,125 @@
+
+body{
+    background-color: black;
+}
+.top1{
+    background-color: pink;
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.container{
+    display: grid;
+    max-width: 500px;
+    margin:auto;
+    overflow: auto;
+
+}
+
+.top2{
+    background-color: rgb(35, 199, 177);
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.top3{
+    background-color: orange;
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.top4{
+    background-color: brown;
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.top5{
+    background-color: chocolate;
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.top6{
+    background-color: green;
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.top7{
+    background-color: crimson;
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.top8{
+    background-color: brown;
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin: 10px; 
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.top9{
+    background-color: rosybrown;
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.top10{
+    background-color: rgb(53, 45, 160);
+    width: 200px;
+    height: 500px;
+    float: left;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+img{
+    margin: 10px;
+    width: 180px;
+    height: 200px;
+}
